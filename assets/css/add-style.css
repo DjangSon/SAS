@@ -1,0 +1,152 @@
+/*按钮-button*/
+.mybtn{padding: 6px 16px;border-radius: 4px;text-align: center;margin: 4px;font-size: 14px;display: inline-block;margin-bottom: 0;}
+.mybtn1{background-color: #368ee0;color: #FFFFFF;}
+.mybtn2{background-color: #CCCCCC;color: #333;}
+.mybtn3{background-color: #FF4C4C;color: #FFFFFF;}
+.mybtn-wid{width: 200px;}
+.btn-mg{margin-right:43px;}
+/*登录页*/
+.log-dis{display: block;}
+/*物业*/
+.btn-add{height: 28px;border: none; border-radius: 4px;line-height: 14px;margin-left: 16px; background-color: #D44344;color: #FFFFFF;}
+.plugin{width: 480px;height: 400px;background-color: rgba(205,197,191,0.8);padding: 20px;position: absolute;top: 200px;left: 500px;}
+.add-message{color: #55ACEE;font-weight: 900;font-size:16px;display: block;text-align: center;}
+/*文明宿舍*/
+.plugin-img{width: 550px;height: 470px;background-color: #FFFFFF;padding: 20px;position: absolute;z-index: 3;top: 200px;left: 500px;}
+.plugin-input{border: solid 1px #DFDFDF;border-radius: 4px;background-color: #FFFFFF;}
+.plugin-input1{margin-top: 100px;width: 140px;}
+.activity{font-weight: 800;}
+/*宿舍分配*/
+.dmgb{margin-bottom: 15px;}
+.dmgr{margin-right: 15px;}
+.dpd{padding: 4px 6px;}
+.dis-inp{width: 120px;border: none;background:rgba(255, 255, 255, 0.2);color: #000000;padding: 4px 2px;}
+/*上传、下载*/
+.files{padding: 20px 36px;border-bottom: 1px dashed #E3E3E3;}
+.files1{border-bottom: 2px solid #C3C3C3;}
+.files2{padding: 0 36px;}
+/*index2*/
+.img-dmgb{margin-bottom: 10px;}
+.img-size{font-size: 14px;margin-left: 14px;color: #333333;}
+.home-pdr{padding-right: 0;}
+.legend-img{width: 25px;height: 20px;margin: 0 3px 3px 3px;}
+.legend-span{font-size: 12px;}
+.home-operate{color: #368ee0;}
+.late{font-size: 16px;}
+.late-minus{font-size: 18px; padding-bottom: 3px;}
+/*学生主页-消息*/
+.student-ad{background-color: #FFFFFF;color: #FF4C4C;}
+.display-p{display: inline-block;}
+.pd-15{padding: 15px;}
+.student-pd{padding-left: 43px;}
+.student-mg{margin: 0 260px;}
+.sdt-mg{margin: 0 6px;}
+/*学生主页-宿舍信息*/
+.stu-dor{padding: 20px 60px;}
+.stu-tab{margin: 30px 0;}
+/*学生主页-访问登记*/
+.dor-dis{display: none;}
+.dor-inp{width: 120px;border: none;background:rgba(255, 255, 255, 0.2);text-align: center;color: #000000;}
+/*学生主页-公告*/
+.student-ads{background-color: #FFF;border: 1px solid #FFF6F5;border-radius: 4px;margin: 10px 0 20px 0;padding: 10px;}
+.student-ads1{margin: 10px 35px 20px 0px;}
+.student-ads2{padding-left: 0;}
+.student-ads7{padding-right: 0;}
+.student-ads3{border-bottom: 1px dashed #E3E3E3;}
+.student-ads4{text-align: center;}
+.student-ads5{font-weight: 800;}
+.student-ads6{background-color: #FFFFFF;}
+.mouse{cursor: pointer;}
+/*学生主页-弹*/
+.student-bx{text-align: center;margin-bottom: 20px;}
+.student-h{text-align: center;color: #3498DB;font-weight: 800;}
+.student-mg1{margin-left: 1em;}
+.student-mg2{margin-left: 2em;}
+.student-mg3{margin-left: 20px;}
+.student-mg4{margin-top: 20px;}
+.student-mg5{margin-left: 6px;}
+.student-wd1{width: 150px;}
+.student-wd2{width: 250px;}
+.student-wd3{width: 490px;}
+.student-al{align-content: center;}
+.student-ve{vertical-align: top;}
+.student-img{border: 1px solid #E0E0E0;width: 200px;height: 220px;display: inline-block;}
+.student-img1{float: right;margin-top: 100px;}
+.student-hf{border: 1px solid #E4E4E4;padding: 15px;margin-bottom: 15px;}
+.student-hf1{border-bottom: 1px dashed #E3E3E3;padding: 10px;}
+.student-hf2{color: #3498DB;}
+.student-hf3{color: #ed9c28;}
+.student-hf4{float: right;}
+/*主要概况*/
+.co{color: #368ee0;}
+.pd{padding: 6px 12px;}
+.mgl{margin-left: 60px;}
+/*管理员留言*/
+.dor-message{margin-bottom: 20px;}
+/*管理员宿舍评比*/
+.dor-act{text-indent: 2em;}
+.cos{color: #FFC926;}
+.dor-acts{margin-left:40px;}
+/*管理员主页分页*/
+.home-ul{border:0;padding:0;margin: 0 100px 80px 700px;list-style: none;}
+.home-ul li{float: left;width: 30px;padding: 4px 0;border: 1px solid #368ee0;border-radius: 4px;margin-left: 6px;text-align: center;}
+#pagination-flickr li{
+border:0; margin:0; padding:0;
+font-size:11px;
+list-style:none;
+}
+#pagination-flickr a{
+border:solid 1px #DDDDDD;
+margin-right:2px;
+text-decoration: none;
+}
+#pagination-flickr .previous-off,
+#pagination-flickr .next-off {
+color:#666666;
+display:block;
+float:left;
+font-weight:bold;
+padding:3px 4px;
+}
+#pagination-flickr .next a,
+#pagination-flickr .previous a {
+font-weight:bold;
+border:solid 1px #FFFFFF;
+}
+#pagination-flickr .active{
+color:#ff0084;
+font-weight:bold;
+display:block;
+float:left;
+padding:4px 6px;
+}
+#pagination-flickr a:link,
+#pagination-flickr a:visited {
+color:#0063e3;
+display:block;
+float:left;
+padding:3px 6px;
+text-decoration:none;
+}
+#pagination-flickr a:hover{
+border:solid 1px #666666;
+}
+/*管理员发布公告*/
+.notice-div{border: 1px solid #E5E5E5;padding: 20px;}
+.notice-div1{text-align: center;padding: 15px;}
+.notice-span{font-size: 16px;font-weight: 800;}
+.notice-input{border-radius: 4px;border: 1px solid #CCCCCC;}
+.notice-p{text-indent: 2em;}
+.notice-btn{margin-left: 30%;}
+/*管理员主页宿舍信息按钮切换页面*/
+.display{display: inline-block;background-color: #368ee0;color: #FFFFFF;padding: 6px 20px;border-radius: 4px;}
+/*管理员添加访问登记*/
+.dormg{margin-left:4.5em;}
+/*投票*/
+.img-mgt{margin-top: 100px;}
+.img-close{color: #FFFFFF;}
+.photos{width:150px; border:1px solid #d3d3d3;margin:20px auto; text-align:center;padding:4px;cursor:pointer;position:relative}
+.tel-mg{margin: 0 50px 0 4px;}
+/*禁止*/
+.ban{cursor:not-allowed;}
+
